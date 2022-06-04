@@ -6,8 +6,10 @@
 
 ### Latest Blog Posts
 
-* [Qiskit Spring 2022 Quantum Challenge](https://blog.quantumlyconfused.com/quantum-computing/2022/05/29/ibm-quantum-challenge-spring2022/) - 29/05/2022
-* [NSEC 2022 CTF - N64 Reverse Engineering](https://blog.quantumlyconfused.com/ctf/2022/05/22/nsec2022-n64/) - 26/05/2022
+* [Qiskit Spring 2022 Quantum Challenge](https://blog.quantumlyconfused.com/quantum-computing/2022/05/29/ibm-quantum-challenge-spring2022/) - 29-05-2022
+* [NSEC 2022 CTF - N64 Reverse Engineering](https://blog.quantumlyconfused.com/ctf/2022/05/22/nsec2022-n64/) - 26-05-2022
+
+More at [Quantumly Confused Blog](https://blog.quantumlyconfused.com/)
 
 <!--
 **padraignix/padraignix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
