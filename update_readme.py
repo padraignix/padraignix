@@ -34,7 +34,6 @@ if __name__ == "__main__":
     
     entries = fetch_blog_entries()
     entries_md = "| Post | Date |\n| --------------------------------------- | -------------- |\n"
-    entries_md += "| ----------- | ----------- |\n"
     entries_md += "\n".join(
         ["| [{title}]({url}) | {published} |".format(**entry) for entry in entries]
     )
