@@ -21,9 +21,9 @@ def fetch_blog_entries():
     entries = feedparser.parse("https://blog.quantumlyconfused.com/feed.xml")
     return [
         {
-            "title": entry["title"],
-            "url": entry["link"],
-            "published": entry["published"].split("T")[0],
+            "title": entry.title,
+            "url": entry.link,
+            "published": entry.published.split("T")[0],
         }
         for entry in entries
     ]
