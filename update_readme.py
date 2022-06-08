@@ -1,9 +1,8 @@
 import feedparser
-import httpx
 import json
 import pathlib
 import re
-import os
+
 
 root = pathlib.Path(__file__).parent.resolve()
 
