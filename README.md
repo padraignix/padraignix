@@ -9,7 +9,6 @@
 <!-- blog starts -->
 | Post | Date |
 | --------------------------------------- | -------------- |
-| ----------- | ----------- |
 | [Qiskit Quantum Challenge - Spring 2022](https://padraignix.github.io/quantum-computing/2022/05/29/ibm-quantum-challenge-spring2022/) | 2022-05-29 |
 | [NSEC 2022 - Safe Cracking](https://padraignix.github.io/ctf/2022/05/28/nsec2022-safecracking/) | 2022-05-28 |
 | [NSEC 2022 - N64 - ROM Reverse Engineering](https://padraignix.github.io/ctf/2022/05/22/nsec2022-n64/) | 2022-05-22 |
