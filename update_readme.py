@@ -18,14 +18,14 @@ def replace_chunk(content, marker, chunk, inline=False):
     return r.sub(chunk, content)
   
 def fetch_blog_entries():
-    entries = feedparser.parse("https://blog.quantumlyconfused.com/feed.xml")
+    d = feedparser.parse("https://blog.quantumlyconfused.com/feed.xml")
     return [
         {
-            "title": entry.title,
-            "url": entry.link,
-            "published": entry.published.split("T")[0],
+            "title": d.entries[i].title,
+            "url": d.entries[i].link,
+            "published": d.entries[i].published.split("T")[0],
         }
-        for entry in entries
+        for i in range(len(d.entries))
     ]
 
 if __name__ == "__main__":
