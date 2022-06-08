@@ -7,10 +7,11 @@
 ### Latest Blog Posts
 
 <!-- blog starts -->
-| Post | Date |
-| --------------------------------------- | -------------- |
-| [Qiskit Spring 2022 Quantum Challenge](https://blog.quantumlyconfused.com/quantum-computing/2022/05/29/ibm-quantum-challenge-spring2022/) | 29-05-2022 |
-| [NSEC 2022 CTF - N64 Reverse Engineering](https://blog.quantumlyconfused.com/ctf/2022/05/22/nsec2022-n64/) | 26-05-2022 |
+| [Qiskit Quantum Challenge - Spring 2022](https://padraignix.github.io/quantum-computing/2022/05/29/ibm-quantum-challenge-spring2022/) | 2022-05-29 || Post | Date |
+| --------------------------------------- | -------------- || [NSEC 2022 - Safe Cracking](https://padraignix.github.io/ctf/2022/05/28/nsec2022-safecracking/) | 2022-05-28 || Post | Date |
+| --------------------------------------- | -------------- || [NSEC 2022 - N64 - ROM Reverse Engineering](https://padraignix.github.io/ctf/2022/05/22/nsec2022-n64/) | 2022-05-22 || Post | Date |
+| --------------------------------------- | -------------- || [Open Source Quantum Computing - First Qiskit Contribution](https://padraignix.github.io/quantum-computing/2022/05/08/qiskit-first-contribution/) | 2022-05-08 || Post | Date |
+| --------------------------------------- | -------------- || [Qiskit Quantum Challenge - Fall 2021](https://padraignix.github.io/quantum-computing/2022/04/30/ibm-quantum-challenge-fall2021/) | 2022-04-30 |
 <!-- blog ends -->
 
 More at <a href="https://blog.quantumlyconfused.com"><img alt="Quantumly Confused Blog" width="90px" src="https://img.shields.io/badge/website-blog-blue"/></a>
