@@ -33,7 +33,9 @@ if __name__ == "__main__":
     readme_contents = readme.open().read()
     
     entries = fetch_blog_entries()
-    entries_md = "| Post | Date |\n| --------------------------------------- | -------------- |".join(
+    entries_md = "| Post | Date |\n| --------------------------------------- | -------------- |\n"
+    entries_md += "| ----------- | ----------- |\n"
+    entries_md += "\n".join(
         ["| [{title}]({url}) | {published} |".format(**entry) for entry in entries]
     )
     rewritten = replace_chunk(readme_contents, "blog", entries_md)
