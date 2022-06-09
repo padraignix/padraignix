@@ -16,7 +16,7 @@
 | [Qiskit Quantum Challenge - Fall 2021](https://padraignix.github.io/quantum-computing/2022/04/30/ibm-quantum-challenge-fall2021/) | 2022-04-30 |
 <!-- blog ends -->
 
-More at <a href="https://blog.quantumlyconfused.com"><img alt="Quantumly Confused Blog" width="90px" src="https://img.shields.io/badge/website-blog-blue"/></a>
+More at <a href="https://blog.quantumlyconfused.com"><img alt="Quantumly Confused Blog" width="150px" src="https://img.shields.io/badge/blog-Quantumly_confused-blue"/></a>
 
 <hr>
 
