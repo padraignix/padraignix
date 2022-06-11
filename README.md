@@ -20,6 +20,9 @@ More at <a href="https://blog.quantumlyconfused.com"><img alt="Quantumly Confuse
 
 <hr>
 
+<!-- creds starts -->
+<!-- creds ends -->
+
 <br>
 
 <p align="center">
