@@ -31,7 +31,8 @@ More at <a href="https://blog.quantumlyconfused.com"><img alt="Quantumly Confuse
 <a href="https://twitter.com/_patrickdowning" ><img align="center" alt="Patrick's Twitter" width="100px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <br>
 <br>
-<a href="https://quantumlyconfused.com" target="_blank" rel="nofollow"><img align="center" alt="Quantumly Confused" width="200px" src="https://img.shields.io/badge/website-Quantumly_Confused-blue" /></a>  
+<a href="https://www.credly.com/users/patrick-downing/badges" target="_blank" rel="nofollow"><img alt="Credly Badge List" width="110px" src="https://img.shields.io/badge/certs-Credly-green"/></a>
+<a href="https://quantumlyconfused.com" target="_blank" rel="nofollow"><img alt="Quantumly Confused" width="245px" src="https://img.shields.io/badge/website-Quantumly_Confused-blue" /></a>  
 </p>
 
 <!--
