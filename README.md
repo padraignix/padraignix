@@ -9,11 +9,11 @@
 <!-- blog starts -->
 | Post | Date |
 | --------------------------------------- | -------------- |
+| [Qiskit Quantum Challenge - Fall 2022](https://padraignix.github.io/quantum-computing/2023/02/26/qiskit-fall2022/) | 2023-02-26 |
 | [A 2022 Personal Recap & Look Forward](https://padraignix.github.io/personal/2023/01/14/2022-recap-and-look-forward/) | 2023-01-14 |
 | [Qiskit Quantum Challenge - Spring 2022](https://padraignix.github.io/quantum-computing/2022/05/29/ibm-quantum-challenge-spring2022/) | 2022-05-29 |
 | [NSEC 2022 - Safe Cracking](https://padraignix.github.io/ctf/2022/05/28/nsec2022-safecracking/) | 2022-05-28 |
 | [NSEC 2022 - N64 - ROM Reverse Engineering](https://padraignix.github.io/ctf/2022/05/22/nsec2022-n64/) | 2022-05-22 |
-| [Open Source Quantum Computing - First Qiskit Contribution](https://padraignix.github.io/quantum-computing/2022/05/08/qiskit-first-contribution/) | 2022-05-08 |
 <!-- blog ends -->
 
 More at <a href="https://blog.quantumlyconfused.com"><img alt="Quantumly Confused Blog" width="150px" src="https://img.shields.io/badge/blog-Quantumly_confused-blue"/></a>
