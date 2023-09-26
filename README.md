@@ -9,11 +9,11 @@
 <!-- blog starts -->
 | Post | Date |
 | --------------------------------------- | -------------- |
+| [Post-Quantum Cryptography - Standardization and Summarization](https://padraignix.github.io/quantum-computing/2023/09/25/post-quantum-crypto/) | 2023-09-25 |
 | [Post-Quantum Cryptography - Shor's Algorithm in Action](https://padraignix.github.io/quantum-computing/2023/09/24/quantum-cryptography/) | 2023-09-24 |
 | [HVAC Troubleshooting - Journey to SME Status](https://padraignix.github.io/trench-talk/2023/07/14/hvac-troubleshoot-part2/) | 2023-07-14 |
 | [NSEC 2023 - N64 - Document Dropper 2 Reverse Engineering](https://padraignix.github.io/ctf/2023/05/22/nsec2023-gamestation/) | 2023-05-22 |
 | [QHack 2023 - Fall of Sqynet Track](https://padraignix.github.io/quantum-computing/2023/03/07/xanadu-qhack2023/) | 2023-03-07 |
-| [Qiskit Quantum Challenge - Fall 2022](https://padraignix.github.io/quantum-computing/2023/02/26/qiskit-fall2022/) | 2023-02-26 |
 <!-- blog ends -->
 
 More at <a href="https://blog.quantumlyconfused.com"><img alt="Quantumly Confused Blog" width="150px" src="https://img.shields.io/badge/blog-Quantumly_confused-blue"/></a>
