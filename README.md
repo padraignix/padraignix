@@ -9,11 +9,11 @@
 <!-- blog starts -->
 | Post | Date |
 | --------------------------------------- | -------------- |
+| [NSEC 2024 - Badge Addon - Phospholipid](https://padraignix.github.io/ctf/2024/05/25/nsec2024-badgelife-addon/) | 2024-05-25 |
 | [Building a Production-Grade Minecraft Cloud Infrastructure](https://padraignix.github.io/trench-talk/2023/12/02/mc-cloud-infrastructure/) | 2023-12-02 |
 | [Post-Quantum Cryptography - Practical Kyber Experimentation](https://padraignix.github.io/quantum-computing/2023/10/07/pqc-experimental-implementation/) | 2023-10-07 |
 | [Post-Quantum Cryptography - Standardization and Summarization](https://padraignix.github.io/quantum-computing/2023/09/25/post-quantum-crypto/) | 2023-09-25 |
 | [Post-Quantum Cryptography - Shor's Algorithm in Action](https://padraignix.github.io/quantum-computing/2023/09/24/quantum-cryptography/) | 2023-09-24 |
-| [HVAC Troubleshooting - Journey to SME Status](https://padraignix.github.io/trench-talk/2023/07/14/hvac-troubleshoot-part2/) | 2023-07-14 |
 <!-- blog ends -->
 
 More at <a href="https://blog.quantumlyconfused.com"><img alt="Quantumly Confused Blog" width="150px" src="https://img.shields.io/badge/blog-Quantumly_confused-blue"/></a>
