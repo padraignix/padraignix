@@ -9,7 +9,7 @@
 <!-- blog starts -->
 | Post | Date |
 | --------------------------------------- | -------------- |
-| [DEF CON 33 - Quantum Village - The Shapiro Incident](https://padraignix.github.io/ctf/2025/08/20/defcon33-quantumvillage-qkd/) | 2025-08-20 |
+| [DEF CON 33 - Quantum Village - The Shapiro Incident](https://padraignix.github.io/ctf/2025/08/20/defcon33-quantumvillage-shapiro/) | 2025-08-20 |
 | [DEF CON 33 - Quantum Village - The Entropy Heist](https://padraignix.github.io/ctf/2025/08/16/defcon33-quantumvillage-entropy-heist/) | 2025-08-16 |
 | [Building My Own Cryptographic Badge Add-on - NSEC 2024](https://padraignix.github.io/ctf/2024/09/14/cryptographic-coprocessor-build/) | 2024-09-14 |
 | [NSEC 2024 - Badge Addon - Phospholipid](https://padraignix.github.io/ctf/2024/05/25/nsec2024-badgelife-addon/) | 2024-05-25 |
